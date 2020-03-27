@@ -31,3 +31,12 @@ npx knex migrate:status
 
 //segurança do backend
 npm install cors
+
+//icons
+npm install react-icons
+
+//routes
+npm install react-router-dom
+
+//client hppt frontend
+npm install axios

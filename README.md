@@ -40,3 +40,32 @@ npm install react-router-dom
 
 //client hppt frontend
 npm install axios
+
+//mobile ('EXPO': making universal native apps for Android, iOS, and the web with JavaScript and React)
+npm install -g expo-cli
+
+//creating app
+expo init mobile
+
+//to execute mobile
+npm start
+
+//React Navigation
+npm install @react-navigation/native
+--Installing dependencies into an expo managed project
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+-- navitation chosen was stack (by buttons)
+npm install @react-navigation/stack
+
+//constantes
+expo install expo-constants
+
+//email
+expo install expo-mail-composer
+
+//client hppt mobile
+npm install axios
+
+//intl currency etc.. for mobile
+npm install intl
+

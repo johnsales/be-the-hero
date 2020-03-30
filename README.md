@@ -69,3 +69,32 @@ npm install axios
 //intl currency etc.. for mobile
 npm install intl
 
+#generating apk and ipa from expo
+Youtube: 'Gerando APK e IPA com React Native & Expo | Code/Drops #15'
+
+#advanced features
+
+//validation
+npm install celebrate
+
+//install and execute test
+npm install jest -D/ npx jest --init
+
+//to recognize the enviromnent
+npm install cross-env
+
+//test request http and validate
+npm install supertest -D
+
+#deploy backend
+[simple] (heroku) just for test - Youtube: 'Deploy de aplicação NodeJS e React no Heroku'
+[medium] (digital ocean) with users - Youtube: 'deploy de apps Node.js' Masterclass #03
+[big]  (aws, azure and google cloud platform)
+
+#deploy frontend
+[simple and medium] - netlify (sign up and connect with github and it's gone, the platform understand the language and deploy magicly)
+
+#future studies
+- padrões de código ESLint, Prettier
+- Autenticação JWT
+- Styled Components

@@ -1,3 +1,11 @@
+App created in a course practice from omnistack 11 using React
+
+- React for frotend
+- Node for backend
+- React Native for mobile
+
+some commands used during the development
+
 Install Node + NPM
 Install VisualCode
 Install Nodemon (restart node automatically)
